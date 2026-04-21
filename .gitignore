@@ -1,0 +1,14 @@
+# Node/Nuxt (if SSG for docs site)
+node_modules/
+.nuxt/
+.output/
+dist/
+.cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
